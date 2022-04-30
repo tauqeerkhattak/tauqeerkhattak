@@ -1,6 +1,17 @@
 ### Hi there 👋
-<div id="header">
-  <img src="https://media4.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=ecf05e47e3qulvjlkt7py80upicwo2zpx0lk2xtca6utdvoy&rid=giphy.gif" width="100"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40%" height="30%"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tauqeer-khattak-48108017b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/tauqeer_s/">
+    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/Tauqeer_Khattak">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 <!--
 **tauqeerkhattak/tauqeerkhattak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
