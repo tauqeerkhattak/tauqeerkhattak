@@ -27,7 +27,7 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :seedling: Exploring backend technologies.
 
-- :zap: In my free time, I love practice more and read tech articles, and I also love movies.
+- :zap: In my free time, I love to practice more and read tech articles, and I also love movies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tauqeer-khattak-48108017b/)
 
